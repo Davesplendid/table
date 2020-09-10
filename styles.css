@@ -1,0 +1,15 @@
+body{
+    width: 960px; 
+    margin: auto;
+}
+
+table{
+    width: 60%;
+    height: 20%;
+   
+}
+
+table tr th td{
+    text-align: center;
+    border: dotted 3px;
+}
